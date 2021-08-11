@@ -1,0 +1,36 @@
+= Template
+:toc: left
+:toclevels: 5
+:sectnums:
+:sectnumlevels: 5
+
+NOTE: NOTE
+
+TIP: TIP
+
+IMPORTANT: IMPORTANT
+
+CAUTION: CAUTION
+
+WARNING: WARNING
+
+== Course Name
+
+*Objective*
+
+* [ ] *History*:
+* [ ] *Agenda-While doing this course what is the Agenda [1,2,3,4,5..]*:
+* [ ] Exam Notes
+* [ ] *Why OneNote Notes*:
+* [ ] *What is Pending*:
+
+.Table with relative column widths (1,3)
+[cols="1,3"]
+|===
+| Name | Description
+
+| Asciidoctor
+| Awesome way to write documentation
+
+|===
+
