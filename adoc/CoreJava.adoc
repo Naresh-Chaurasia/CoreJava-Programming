@@ -1,4 +1,4 @@
-= Template
+= Core Java Programming
 :toc: left
 :toclevels: 5
 :sectnums:
