@@ -7,7 +7,6 @@ public class ConsumerExample {
     public static void main(String[] args) {
 
         Consumer <String> displayConsumer = s->System.out.print(s);
-
         displayConsumer.accept("Hello World");
 
     }

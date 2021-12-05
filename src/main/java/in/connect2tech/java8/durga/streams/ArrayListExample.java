@@ -19,9 +19,9 @@ class ArrayListExample {
 
         createList();
 
-        arrli.stream().filter(value -> value%2==0).forEach(displayValue);
+        arrli.stream().filter(value -> value%2==0).forEach(System.out::println);
 
-        List <Integer> list = arrli.stream().filter(value -> value%2==0).collect(Collectors.toList());
+        //List <Integer> list = arrli.stream().filter(value -> value%2==0).collect(Collectors.toList());
 
 
     }
