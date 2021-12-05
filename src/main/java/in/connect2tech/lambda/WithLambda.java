@@ -1,4 +1,4 @@
-package in.connect2tech.sample;
+package in.connect2tech.lambda;
 
 public class WithLambda {
     public static void main(String[] args) {

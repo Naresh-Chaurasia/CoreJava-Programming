@@ -1,4 +1,4 @@
-package in.connect2tech.sample;
+package in.connect2tech.lambda;
 
 @FunctionalInterface
 interface Inter1{
