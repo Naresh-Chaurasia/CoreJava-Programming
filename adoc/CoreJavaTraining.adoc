@@ -165,3 +165,12 @@ public class WithLambda {
 
 === Lambda Expression with Collections
 
+* ListSortingLambda
+* Sorting of Our own class objects with Lambda Expression
+
+=== Anonymous Inner Classes & Lambda Expressions
+
+* Completed 20 only
+
+=== Default Methods and Static Methods in Interfaces
+
